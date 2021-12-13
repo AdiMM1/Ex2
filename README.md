@@ -62,6 +62,3 @@ This interface represents a geolocation <x,y,z>, (aka Point3D data).
 
 
 
-
-
-
