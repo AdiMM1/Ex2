@@ -7,6 +7,7 @@ In this project we performed object programming of a weighted directed graph. Th
 The project implemented a number of algorithms of operations that can be done on graphs. At the end of the project we created a graph ourselves that implemented all the functions and algorithms we wrote.
 
 ##DWGAlgo Class
+
 This class is an implementation of DirectedWeightedGraphAlgorithms interface. This class represents a Direct Weighted Graph Theory Algorithm.
 *init* - This function inits the graph on which this set of algorithms operates on.
 *getGraph* - This function returns the underlying graph of whic this class works.
