@@ -19,6 +19,7 @@ This class is an implementation of DirectedWeightedGraphAlgorithms interface. Th
 *load* - loads a graph to this graph algorithm.
 
 ###Auxiliary functions###
+
 *Dijkstra (NodeData src, NodeData dest)* - This function based on Dijkstra algorithm. The function is an algorithm for finding the shortest paths between nodes in a graph.
 
 ##DWgraph Class##
