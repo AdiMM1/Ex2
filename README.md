@@ -6,7 +6,7 @@ Introduction
 In this project we performed object programming of a weighted directed graph. The project consist 5 classes, 3 interfaces and 3 test class.
 The project implemented a number of algorithms of operations that can be done on graphs. At the end of the project we created a graph ourselves that implemented all the functions and algorithms we wrote.
 
-##DWGAlgo Class##
+## DWGAlgo Class##
 
 This class is an implementation of DirectedWeightedGraphAlgorithms interface. This class represents a Direct Weighted Graph Theory Algorithm.
 *init* - This function inits the graph on which this set of algorithms operates on.
@@ -18,11 +18,11 @@ This class is an implementation of DirectedWeightedGraphAlgorithms interface. Th
 *save* - saves this weighted directed graph to the given file name.
 *load* - loads a graph to this graph algorithm.
 
-###Auxiliary functions###
+### Auxiliary functions###
 
 *Dijkstra (NodeData src, NodeData dest)* - This function based on Dijkstra algorithm. The function is an algorithm for finding the shortest paths between nodes in a graph.
 
-##DWgraph Class##
+## DWgraph Class##
 
 This class is an implementation of DirectedWeightedGraph interface. This class represents a Direct Weighted Graph.
 *getNode* - This function get int- key and returns the NodeData. #####complexity: O(1).
@@ -38,15 +38,15 @@ This class is an implementation of DirectedWeightedGraph interface. This class r
 *edgeSize* - Returns the number of edges in the graph.
 *getMC* - Returns the Mode Count - for testing changes in the graph.
 
-##NodeData Interface##
+## NodeData Interface##
 
 This interface represents the set of operations applicable on a node in a directional weighted graph.
 
-##EdgeData Interface##
+## EdgeData Interface##
 
 This interface represents the set of operations applicable on a directional edge (src,dest) in a directional weighted graph.
 
-##GeoLocation Interface##
+## GeoLocation Interface##
 
 This interface represents a geolocation <x,y,z>, (aka Point3D data).
 
