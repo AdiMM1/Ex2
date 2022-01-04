@@ -1,6 +1,6 @@
 # Ex2
 
-Written by Adi Finkelman and Adi Miller
+Written by Adi Finkelman and Adi Miller.
 
 Introduction
 In this project we performed object programming of a weighted directed graph. The project consist 5 classes, 3 interfaces and 3 test class.
